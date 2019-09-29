@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="stat-bigdata">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/stat-bigdata.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

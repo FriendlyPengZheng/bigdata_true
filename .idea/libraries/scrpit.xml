@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="scrpit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/scrpit/libsvm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/scrpit/stat-bigdata.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/scrpit/weka.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
