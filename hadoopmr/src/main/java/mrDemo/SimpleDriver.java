@@ -15,10 +15,12 @@ import java.util.List;
 
 public class SimpleDriver {
 
-    public static void main(String[] args) throws Exception{
+    public static void main(String[] args) throws Exception {
         Configuration conf = new Configuration();
-        Job job = new Job(conf,"YourJobName");
-
+        Job job = new Job(conf, "YourJobName");
+        int n = 10;
+        int E[] = new int[n];
+        List<? extends Object> list = new ArrayList<String>();
         job.setJarByClass(SimpleDriver.class);
 
         job.setMapOutputKeyClass(Text.class);
@@ -30,9 +32,10 @@ public class SimpleDriver {
         job.setMapperClass(WcMapper.class);
         job.setReducerClass(WcReducer.class);
 
-        FileInputFormat.addInputPath(job,new Path(args[0]));
-        FileOutputFormat.setOutputPath(job,new Path(args[1]));
+        FileInputFormat.addInputPath(job, new Path(args[0]));
+        FileOutputFormat.setOutputPath(job, new Path(args[1]));
 
         job.waitForCompletion(true);
     }
+
 }

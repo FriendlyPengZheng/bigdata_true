@@ -63,8 +63,8 @@ public class demo {
                 return optional;
             }
         });
-
         re.print(100);
+
 
         jsc.start();
         try {

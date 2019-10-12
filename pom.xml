@@ -10,7 +10,8 @@
 	<modules>
 		<module>spark</module>
 		<module>hadoopmr</module>
-	</modules>
+        <module>scalaDemo</module>
+    </modules>
 	<dependencies>
 
 		<dependency>
