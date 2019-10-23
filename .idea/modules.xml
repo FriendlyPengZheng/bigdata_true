@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AAAAA/AAAAA.iml" filepath="$PROJECT_DIR$/../AAAAA/AAAAA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../getRedis/getRedis.iml" filepath="$PROJECT_DIR$/../getRedis/getRedis.iml" />
       <module fileurl="file://$PROJECT_DIR$/hadoopmr/hadoopmr.iml" filepath="$PROJECT_DIR$/hadoopmr/hadoopmr.iml" />
       <module fileurl="file://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/stat-bigdata.iml" filepath="$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/stat-bigdata.iml" />
     </modules>

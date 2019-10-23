@@ -7,28 +7,44 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0252316f-289e-4496-ac70-569cc4ac141e" name="Default Changelist" comment="test commit">
+    <list default="true" id="0252316f-289e-4496-ac70-569cc4ac141e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpointDir/.checkpoint-1569724065000.bk.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpointDir/.checkpoint-1569724065000.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpointDir/.checkpoint-1569724070000.bk.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpointDir/.checkpoint-1569724070000.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpointDir/.checkpoint-1569724075000.bk.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpointDir/.checkpoint-1569724075000.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpointDir/.checkpoint-1569724080000.bk.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpointDir/checkpoint-1569724065000" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpointDir/checkpoint-1569724065000.bk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpointDir/checkpoint-1569724070000" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpointDir/checkpoint-1569724070000.bk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpointDir/checkpoint-1569724075000" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpointDir/checkpoint-1569724075000.bk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpointDir/checkpoint-1569724080000.bk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpointDir/receivedBlockMetadata/log-1569724030000-1569724090000" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hadoopmr/src/main/java/mrDemo/SimpleDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/hadoopmr/src/main/java/mrDemo/SimpleDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/.checkpoint-1569724080000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/.checkpoint-1569724085000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/.checkpoint-1569724085000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/.checkpoint-1570763165000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/.checkpoint-1570763170000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/.checkpoint-1570763170000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/.checkpoint-1570763175000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/.checkpoint-1570763175000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/.checkpoint-1570763180000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/.checkpoint-1570763180000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/checkpoint-1569724080000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/checkpoint-1569724085000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/checkpoint-1569724085000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/checkpoint-1570763165000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/checkpoint-1570763170000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/checkpoint-1570763170000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/checkpoint-1570763175000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/checkpoint-1570763175000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/checkpoint-1570763180000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/checkpoint-1570763180000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpointDir/receivedBlockMetadata/log-1570763165209-1570763225209" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoopmr/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hadoopmr/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoopmr/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoopmr/target/classes/META-INF/maven/com.my.demo/hadoop-mr/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoopmr/target/classes/META-INF/maven/com.my.demo/hadoop-mr/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoopmr/target/classes/mrDemo/WcDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/hadoopmr/target/classes/mrDemo/WcDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoopmr/target/classes/mrDemo/WcMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/hadoopmr/target/classes/mrDemo/WcMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoopmr/target/classes/mrDemo/WcReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/hadoopmr/target/classes/mrDemo/WcReducer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoopmr/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoopmr/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/hadoopmr/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoopmr/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/hadoopmr/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoopmr/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/src/main/java/sparkStreaming/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/spark/src/main/java/sparkStreaming/demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkStreaming/demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/spark/target/classes/sparkStreaming/demo.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -66,40 +82,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scalaDemo/src/main/scala/Hello.scala">
+        <entry file="file://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/AdsMon/src/pages/PvUv.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-1500">
+              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scalaDemo/src/main/scala/FunDemo.scala">
+        <entry file="file://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/AdsMon/src/core/UniqTimes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scalaDemo/src/main/scala/lazyFun.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="270">
+              <caret line="81" column="43" selection-start-line="81" selection-start-column="43" selection-end-line="81" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scalaDemo/src/main/scala/ExceptionDemo.scala">
+        <entry file="file://$PROJECT_DIR$/../getRedis/src/com/taomee/redis/RmRecommendsData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+            <state relative-caret-position="-233">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -110,6 +114,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Arquillian JUnit Test Class" />
+        <option value="Scala Object" />
         <option value="Class" />
       </list>
     </option>
@@ -127,6 +132,9 @@
       <find>EMPTY</find>
       <find>or</find>
       <find>orElse</find>
+      <find>this</find>
+      <find>this(</find>
+      <find>args</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\friendly\workspace\bigdata</dir>
@@ -145,7 +153,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/hadoopmr/src/main/java/mrDemo/WcMapperTest.java" />
-        <option value="$PROJECT_DIR$/hadoopmr/pom.xml" />
         <option value="$PROJECT_DIR$/hadoopmr/src/main/java/main/java/mrDemo/WcReducer.java" />
         <option value="$PROJECT_DIR$/hadoopmr/src/main/java/main/java/mrDemo/WcMapper.java" />
         <option value="$PROJECT_DIR$/hadoopmr/src/main/java/main/java/mrDemo/WcDriver.java" />
@@ -158,16 +165,25 @@
         <option value="$PROJECT_DIR$/hadoopmr/src/main/java/mrDemo/WcDriver.java" />
         <option value="$PROJECT_DIR$/hadoopmr/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/hadoopmr/src/main/java/mrDemo/MultipleInputsJobDriver.java" />
-        <option value="$PROJECT_DIR$/spark/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/test" />
         <option value="$PROJECT_DIR$/spark/src/main/java/sparkStreaming/demo.java" />
         <option value="$PROJECT_DIR$/scalaDemo/src/hello.scala" />
         <option value="$PROJECT_DIR$/scalaDemo/src/main/scala/Hello.scala" />
         <option value="$PROJECT_DIR$/scalaDemo/src/main/scala/FunDemo.scala" />
-        <option value="$PROJECT_DIR$/scalaDemo/src/main/scala/lazyFun.scala" />
         <option value="$PROJECT_DIR$/hadoopmr/src/main/java/mrDemo/SimpleDriver.java" />
         <option value="$PROJECT_DIR$/scalaDemo/src/main/scala/ExceptionDemo.scala" />
+        <option value="$PROJECT_DIR$/scalaDemo/src/main/scala/Person.scala" />
+        <option value="$PROJECT_DIR$/spark/src/main/scala/sparkRDD/WordCount.scala" />
+        <option value="$PROJECT_DIR$/spark/src/main/scala/sparkStreaming/sparkRDD.scala" />
+        <option value="$PROJECT_DIR$/spark/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/spark/src/main/scala/sparkStreaming/WordCount.scala" />
+        <option value="$PROJECT_DIR$/scalaDemo/src/main/scala/lazyFun.scala" />
+        <option value="$PROJECT_DIR$/hadoopmr/pom.xml" />
+        <option value="$PROJECT_DIR$/hadoopmr/src/main/java/QuikSort.java" />
+        <option value="$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/AdsMon/src/log4j.properties" />
+        <option value="$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/AdsMon/src/core/UniqTimes.java" />
+        <option value="$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/AdsMon/src/pages/PvUv.java" />
       </list>
     </option>
   </component>
@@ -181,10 +197,6 @@
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="bigdata" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="spark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
@@ -207,8 +219,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,110 +226,50 @@
               <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
               <item name="bigdata" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="hadoopmr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="hadoopmr" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="hadoopmr" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="hadoopmr" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="hadoopmr" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mrDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="scalaDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="scalaDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="scalaDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="scalaDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stat-bigdata" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570870030552" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571811274580" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.6" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/hadoopmr/src/main/java" />
-    <property name="last_opened_file_path" value="D:/scala-2.11.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AAAAA" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="main.java.mrDemo" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="sparkStreaming" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\friendly\workspace\data-center\server\trunk\stat-bigdata\AdsMon\src" />
+      <recent name="C:\Users\friendly\workspace\data-center\server\trunk\stat-bigdata\AdsMon" />
+      <recent name="C:\Users\friendly\workspace\data-center\server\trunk\stat-bigdata\src\lib" />
+      <recent name="C:\Users\friendly\workspace\bigdata\spark\src\main\resources" />
+      <recent name="C:\Users\friendly\workspace\bigdata\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="mrDemo" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\friendly\workspace\bigdata\spark\src\main\resources" />
-      <recent name="C:\Users\friendly\workspace\bigdata\src\main\resources" />
-      <recent name="C:\Users\friendly\workspace\bigdata\hadoopmr\src" />
-      <recent name="C:\Users\friendly\workspace\data-center\server\trunk\stat-bigdata\src\com\taomee\bigdata" />
-      <recent name="C:\Users\friendly\workspace\data-center\server\trunk\stat-bigdata\src\com\taomee\bigdata\itemPlus" />
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -334,25 +284,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExceptionDemo">
-    <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionDemo" />
-      <module name="scalaDemo" />
+  <component name="RunManager" selected="Application.RmRecommendsData">
+    <configuration name="PvUv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pages.PvUv" />
+      <module name="stat-bigdata" />
+      <option name="PROGRAM_PARAMETERS" value="E:\MyDownloads\adslog/test E:\MyDownloads/adsOutput" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="FunDemo" />
-      <module name="scalaDemo" />
-      <option name="VM_PARAMETERS" value="-Xss1024m" />
+    <configuration name="QuikSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuikSort" />
+      <module name="hadoopmr" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
-      <module name="scalaDemo" />
+    <configuration name="RmRecommendsData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.taomee.redis.RmRecommendsData" />
+      <module name="getRedis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.taomee.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -374,40 +336,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hello" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="hello" />
-      <module name="scalaDemo" />
+    <configuration name="UniqTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.UniqTimes" />
+      <module name="stat-bigdata" />
+      <option name="PROGRAM_PARAMETERS" value="E:\MyDownloads\adsOutput/part-00000 E:\MyDownloads/adsSumOutput" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lazyFun" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lazyFun" />
-      <module name="scalaDemo" />
+    <configuration name="WordCount (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="sparkStreaming.WordCount" />
+      <module name="spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sparkStreaming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.SimpleDriver" />
-      <item itemvalue="Application.hello" />
-      <item itemvalue="Application.Hello" />
-      <item itemvalue="Application.FunDemo" />
-      <item itemvalue="Application.lazyFun" />
-      <item itemvalue="Application.ExceptionDemo" />
+      <item itemvalue="Application.WordCount (1)" />
+      <item itemvalue="Application.QuikSort" />
+      <item itemvalue="Application.PvUv" />
+      <item itemvalue="Application.UniqTimes" />
+      <item itemvalue="Application.RmRecommendsData" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExceptionDemo" />
-        <item itemvalue="Application.lazyFun" />
-        <item itemvalue="Application.FunDemo" />
-        <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.hello" />
+        <item itemvalue="Application.RmRecommendsData" />
+        <item itemvalue="Application.UniqTimes" />
+        <item itemvalue="Application.PvUv" />
+        <item itemvalue="Application.QuikSort" />
+        <item itemvalue="Application.WordCount (1)" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\friendly\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -436,7 +411,12 @@
       <workItem from="1570758980129" duration="867000" />
       <workItem from="1570760483281" duration="1320000" />
       <workItem from="1570762044586" duration="17061000" />
-      <workItem from="1570848157150" duration="16132000" />
+      <workItem from="1570848157150" duration="21766000" />
+      <workItem from="1571019969739" duration="7799000" />
+      <workItem from="1571059489434" duration="645000" />
+      <workItem from="1571279845384" duration="4984000" />
+      <workItem from="1571644194592" duration="2488000" />
+      <workItem from="1571799145930" duration="3611000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1569725126932</created>
@@ -459,11 +439,18 @@
       <option name="project" value="LOCAL" />
       <updated>1569738675168</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="scala commit">
+      <created>1570870131925</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570870131925</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108368000" />
+    <option name="totallyTimeSpent" value="133529000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -476,9 +463,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49624062" visible="true" weight="0.17603911" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49624062" visible="true" weight="0.18643032" />
       <window_info id="Structure" order="1" sideWeight="0.5037594" side_tool="true" weight="0.10268949" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -487,7 +473,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5025729" side_tool="true" weight="0.2555012" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.18045977" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49816626" visible="true" weight="0.29574224" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49816626" visible="true" weight="0.18872267" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.556962" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -498,7 +484,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5012225" side_tool="true" weight="0.21403913" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49816626" weight="0.21979287" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49816626" weight="0.41887227" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -508,10 +494,10 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="SciView" order="8" weight="0.3294621" />
-      <window_info anchor="right" id="Database" order="9" weight="0.3294621" />
-      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.3294621" />
-      <window_info anchor="right" x="0" y="0" width="374" height="826" id="Documentation" order="11" side_tool="true" weight="0.3294621" />
-      <window_info anchor="right" id="Bean Validation" order="12" weight="0.3294621" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3294621" />
+      <window_info anchor="right" id="Database" order="10" weight="0.3294621" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.3294621" />
+      <window_info anchor="right" x="0" y="0" width="374" height="826" id="Documentation" order="12" side_tool="true" weight="0.3294621" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -560,148 +546,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
+    <MESSAGE value="scala commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="scala commit" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/com/taomee/bigdata/itemsPlus/ItemPlusSumMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/com/taomee/bigdata/itemsPlus/ItemActiveMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/com/taomee/bigdata/itemsPlus/ItemBackMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/com/taomee/bigdata/itemsPlus/ItemNewMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/com/taomee/bigdata/itemsPlus/ItemPlusSumReducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/lib/hadoop-core-1.2.1.jar!/org/apache/hadoop/mapred/TextOutputFormat.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/com/taomee/bigdata/bayes/WriteBayesModel.java" />
-    <entry file="file://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/com/taomee/bigdata/upload/UploaderStatLogger.java" />
-    <entry file="jar://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/lib/hadoop-core-1.2.1.jar!/org/apache/hadoop/mapred/JobConf.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/lib/hadoop-core-1.2.1.jar!/org/apache/hadoop/mapred/JobClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="87" column="13" selection-start-line="87" selection-start-column="13" selection-end-line="87" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3.jar!/org/apache/hadoop/security/UserGroupInformation.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="920" selection-start-line="920" selection-end-line="920" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/javax/security/auth/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="421" selection-start-line="421" selection-end-line="421" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.3/hadoop-common-2.7.3.jar!/org/apache/hadoop/fs/LocalDirAllocator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/com/taomee/bigdata/driver/MultipleInputsJobDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="44" column="48" lean-forward="true" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3.jar!/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="323" column="23" selection-start-line="323" selection-start-column="23" selection-end-line="323" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3.jar!/org/apache/hadoop/mapreduce/lib/input/MultipleInputs.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="29" column="101" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hadoopmr/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hadoopmr/src/main/java/mrDemo/WcReducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/init.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/hadoopmr/src/log4j.properties" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties" />
-    <entry file="file://$PROJECT_DIR$/hadoopmr/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="84" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hadoopmr/src/main/java/mrDemo/WcMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -723,13 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="498">
           <caret line="458" column="37" lean-forward="true" selection-start-line="458" selection-start-column="37" selection-end-line="458" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spark/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -820,23 +667,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spark/src/main/java/sparkStreaming/demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8/src.zip!/java/io/PrintStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
@@ -889,14 +719,7 @@
     <entry file="file://$PROJECT_DIR$/scalaDemo/src/main/scala/FunDemo.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scalaDemo/src/main/scala/lazyFun.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -910,10 +733,165 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spark/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/scalaDemo/src/main/scala/ExceptionDemo.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        <state relative-caret-position="270">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark/src/main/scala/sparkRDD.scala" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.2.0/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/StreamingContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="300" column="69" lean-forward="true" selection-start-line="300" selection-start-column="6" selection-end-line="300" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalaDemo/src/main/scala/Person.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark/src/main/java/sparkStreaming/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark/src/main/scala/sparkStreaming/WordCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark/src/main/scala/sparkRDD/WordCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="85" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoopmr/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoopmr/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoopmr/src/main/java/QuikSort.java" />
+    <entry file="file://$PROJECT_DIR$/scalaDemo/src/main/scala/lazyFun.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/lib/AdsMon.jar!/pages/MapPageUniqIp.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="39" column="48" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/lib/AdsMon.jar!/util/NgxLogParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-338">
+          <caret line="46" column="37" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/AdsMon/.settings/org.eclipse.jdt.core.prefs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/lib/AdsMon.jar!/pages/PvUv.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#5427#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/AdsMon/src/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/lib/hadoop-core-1.2.1.jar!/org/apache/hadoop/util/ToolRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/lib/hadoop-core-1.2.1.jar!/org/apache/hadoop/fs/FileSystem.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="318" column="59" lean-forward="true" selection-start-line="318" selection-start-column="59" selection-end-line="318" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/AdsMon/src/pages/PvUv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1500">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../testPro/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/AdsMon/src/core/UniqTimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="81" column="43" selection-start-line="81" selection-start-column="43" selection-end-line="81" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../getRedis/src/com/taomee/redis/RmRecommendsData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-233">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -935,7 +913,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>OSGi</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -971,12 +949,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>spark</last-edited>
+          <last-edited>getRedis</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
