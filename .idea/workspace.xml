@@ -93,20 +93,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../AAAAA/lib/tms_hive-0.0.1-SNAPSHOT-jar-with-dependencies.jar!/com/taomee/tms/bigdata/hive/HiveDriverRecursively.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5700">
-              <caret line="605" column="61" selection-start-line="605" selection-start-column="61" selection-end-line="605" selection-end-column="61" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="597" column="16" lean-forward="true" selection-start-line="597" selection-start-column="16" selection-end-line="597" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../AAAAA/src/myTest/FastTest.java">
+        <entry file="file://$PROJECT_DIR$/scalaDemo/src/main/scala/Student.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -203,6 +200,12 @@
         <option value="$PROJECT_DIR$/../AAAAA/src/myTest/CloneTest.java" />
         <option value="$PROJECT_DIR$/scalaDemo/src/main/scala/objectDemo.scala" />
         <option value="$PROJECT_DIR$/../AAAAA/src/myTest/LinkDemo.java" />
+        <option value="$PROJECT_DIR$/../AAAAA/src/myTest/FastTest.java" />
+        <option value="$PROJECT_DIR$/../AAAAA/src/myTest/ReflectTest.java" />
+        <option value="$PROJECT_DIR$/../AAAAA/src/myTest/paraList.java" />
+        <option value="$PROJECT_DIR$/../AAAAA/src/myTest/ListDemo.java" />
+        <option value="$PROJECT_DIR$/../AAAAA/src/myTest/SingleTest.java" />
+        <option value="$PROJECT_DIR$/scalaDemo/src/main/scala/Student.scala" />
       </list>
     </option>
   </component>
@@ -247,14 +250,40 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stat-bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="scalaDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="scalaDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="scalaDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="scalaDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -269,7 +298,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573033943338" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574159495013" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -281,7 +310,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -316,7 +345,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedListTest">
+  <component name="RunManager" selected="Application.Person">
     <configuration name="CloneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myTest.CloneTest" />
       <module name="AAAAA" />
@@ -350,6 +379,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Person" />
+      <module name="scalaDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SimpleDriver" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -367,13 +403,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="caseDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="caseDemo" />
-      <module name="scalaDemo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="objectDemo" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="objectDemo" />
       <module name="scalaDemo" />
@@ -383,19 +412,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.SimpleDriver" />
-      <item itemvalue="Application.caseDemo" />
       <item itemvalue="Application.FunDemo" />
       <item itemvalue="Application.objectDemo" />
       <item itemvalue="Application.CloneTest" />
       <item itemvalue="Application.LinkedListTest" />
+      <item itemvalue="Application.Person" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Person" />
         <item itemvalue="Application.LinkedListTest" />
         <item itemvalue="Application.CloneTest" />
         <item itemvalue="Application.objectDemo" />
         <item itemvalue="Application.FunDemo" />
-        <item itemvalue="Application.caseDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -440,7 +469,9 @@
       <workItem from="1571911988170" duration="8232000" />
       <workItem from="1572247342048" duration="8483000" />
       <workItem from="1572333557086" duration="29955000" />
-      <workItem from="1573027221381" duration="3353000" />
+      <workItem from="1573027221381" duration="8564000" />
+      <workItem from="1573460869706" duration="626000" />
+      <workItem from="1574148164057" duration="8228000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1569725126932</created>
@@ -498,11 +529,25 @@
       <option name="project" value="LOCAL" />
       <updated>1572950060371</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=" commit">
+      <created>1573033972955</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1573033972955</updated>
+    </task>
+    <task id="LOCAL-00010" summary=" commit">
+      <created>1573033987325</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1573033987325</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199625000" />
+    <option name="totallyTimeSpent" value="213690000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -515,8 +560,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49624062" visible="true" weight="0.17603911" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49624062" visible="true" weight="0.1797066" />
       <window_info id="Structure" order="1" sideWeight="0.5037594" side_tool="true" weight="0.10268949" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -525,7 +571,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5025729" side_tool="true" weight="0.2555012" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.18045977" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49816626" visible="true" weight="0.18411967" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49816626" visible="true" weight="0.2301496" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.556962" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -645,60 +691,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/lib/tms_spark-0.0.1-SNAPSHOT-jar-with-dependencies.jar!/com/taomee/bigdata/hbase/client/utils/HbaseConfig.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="16" column="56" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/lib/tms_spark-0.0.1-SNAPSHOT-jar-with-dependencies.jar!/com/taomee/bigdata/hbase/client/utils/HbasePoolConn.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/lib/tms_spark-0.0.1-SNAPSHOT-jar-with-dependencies.jar!/com/taomee/tms/bigdata/hive/UDF/DateAddUDF.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8/src.zip!/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/lib/tms_spark-0.0.1-SNAPSHOT-jar-with-dependencies.jar!/hbase-webapps/regionserver/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-24" />
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/lib/tms_spark-0.0.1-SNAPSHOT-jar-with-dependencies.jar!/com/mysql/jdbc/util/Base64Decoder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-330">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/lib/tms_spark-0.0.1-SNAPSHOT-jar-with-dependencies.jar!/com/taomee/tms/bigdata/spark/SetUcount.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" selection-start-line="7" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/lib/tms_spark-0.0.1-SNAPSHOT-jar-with-dependencies.jar!/com/taomee/tms/bigdata/spark/PartitionByStationUsingMultipleOutputFormat.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="56" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/java.util.AbstractSequentialList">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -998,13 +990,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scalaDemo/src/main/scala/objectDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../AAAAA/src/myTest/CloneTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1031,20 +1016,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../AAAAA/lib/tms_hive-0.0.1-SNAPSHOT-jar-with-dependencies.jar!/com/taomee/tms/bigdata/hive/HiveDriverRecursively.class">
+    <entry file="file://$PROJECT_DIR$/../AAAAA/src/myTest/FastTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5700">
-          <caret line="605" column="61" selection-start-line="605" selection-start-column="61" selection-end-line="605" selection-end-column="61" />
+        <state relative-caret-position="-570">
+          <caret line="14" column="22" selection-start-line="13" selection-start-column="8" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AAAAA/src/myTest/TreeMa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AAAAA/src/myTest/ReflectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AAAAA/src/myTest/paraList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AAAAA/src/myTest/FastTest.java">
+    <entry file="file://$PROJECT_DIR$/../AAAAA/src/myTest/mergeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="810">
+          <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AAAAA/src/myTest/SingleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AAAAA/src/myTest/ListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalaDemo/src/main/scala/objectDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data-center/server/trunk/stat-bigdata/src/com/taomee/bigdata/assignments/AssignReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../AAAAA/lib/tms_hive-0.0.1-SNAPSHOT-jar-with-dependencies.jar!/com/taomee/tms/bigdata/hive/HiveDriverRecursively.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="597" column="16" lean-forward="true" selection-start-line="597" selection-start-column="16" selection-end-line="597" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalaDemo/src/main/scala/Student.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
