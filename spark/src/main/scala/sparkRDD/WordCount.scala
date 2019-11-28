@@ -16,6 +16,7 @@ object WordCount {
     val result: RDD[(String, Int)] = myMap.reduceByKey((x, y) => x + y);
     //val result = input.filter(x => x.length != 0).flatMap (s => s.split(" ")).map(x => (x, 1)).reduceByKey((x, y) => (x + y))
     result.foreach(println)
+
     //result.saveAsTextFile("E:\\MyDownloads\\wc-output")
   }
 }
