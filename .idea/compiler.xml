@@ -11,8 +11,5 @@
         <module name="spark" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8">
-      <module name="hadoopmr" target="8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
