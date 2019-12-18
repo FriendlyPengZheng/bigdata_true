@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f2ec5b17-762e-4e44-b89d-389536a00b06" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark/src/main/scala/sparkStreaming/DStream1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark/src/main/scala/sparkStreaming/DstreamKafka.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/ads_data.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/lib1.xml" beforeDir="false" />
@@ -14,56 +11,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/stat_bigdata.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/tms_storm_0_0_1_SNAPSHOT_jar_with_dependencies.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hadoopmr/hadoopmr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hadoopmr/hadoopmr.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hadoopmr/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/hadoopmr/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hadoopmr/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/hadoopmr/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scalaDemo/scalaDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/spark.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/src/main/java/gitCommitTest" beforeDir="false" afterPath="$PROJECT_DIR$/spark/src/main/java/gitCommitTest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes.1364449224.timestamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkRDD/RDD1$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkRDD/RDD1$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkRDD/RDD1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkRDD/RDD2$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkRDD/RDD2$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkRDD/RDD2$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkRDD/RDD2$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkRDD/RDD2$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkRDD/RDD2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkRDD/WordCount$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkRDD/WordCount$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkRDD/WordCount$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkRDD/WordCount$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkRDD/WordCount$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkRDD/WordCount$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkRDD/WordCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkRDD/aggregateDemo$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkRDD/aggregateDemo$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkRDD/aggregateDemo$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkRDD/aggregateDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkStreaming/AA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkStreaming/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkStreaming/WordCount$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkStreaming/WordCount$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkStreaming/WordCount$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkStreaming/WordCount$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkStreaming/WordCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkStreaming/demo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkStreaming/demo$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkStreaming/demo$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkStreaming/demo$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/classes/sparkStreaming/demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/spark/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/target/spark-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/sparkStreaming/DstreamKafka.scala" beforeDir="false" afterPath="$PROJECT_DIR$/spark/src/main/scala/sparkStreaming/DstreamKafka.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/scalaDemo/target/" />
@@ -78,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spark/src/main/scala/sparkStreaming/DstreamKafka.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+            <state relative-caret-position="300">
+              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
               <folding>
                 <element signature="e#24#57#0" expanded="true" />
               </folding>
@@ -91,28 +44,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.3.0/spark-streaming-kafka-0-10_2.11-2.3.0-sources.jar!/org/apache/spark/streaming/kafka010/KafkaUtils.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka_2.11/1.6.2/spark-streaming-kafka_2.11-1.6.2-sources.jar!/org/apache/spark/streaming/kafka/KafkaUtils.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="66" column="45" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="83" column="45" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="45" />
+            <state relative-caret-position="540">
+              <caret line="93" selection-start-line="93" selection-end-line="93" />
             </state>
           </provider>
         </entry>
@@ -122,10 +57,16 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>sparkconf</find>
+      <find>streaming</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.scala" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.scala" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.scala" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -134,8 +75,8 @@
         <option value="$PROJECT_DIR$/spark/src/main/java/gitCommitTest" />
         <option value="$PROJECT_DIR$/spark/src/main/scala/sparkStreaming/DStreamDemo1.scala" />
         <option value="$PROJECT_DIR$/spark/src/main/scala/sparkStreaming/DStream1.scala" />
-        <option value="$PROJECT_DIR$/spark/src/main/scala/sparkStreaming/DstreamKafka.scala" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spark/src/main/scala/sparkStreaming/DstreamKafka.scala" />
       </list>
     </option>
   </component>
@@ -153,12 +94,7 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+          <item name="bigdata" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
       <select />
@@ -178,78 +114,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigdata_true" type="b2602c69:ProjectViewProjectNode" />
               <item name="bigdata_true" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata_true" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata_true" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata_true" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata_true" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata_true" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata_true" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkStreaming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576147026419" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576641229081" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.6200828" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -313,7 +202,11 @@
       <option name="presentableId" value="Default" />
       <updated>1576119914815</updated>
       <workItem from="1576119918437" duration="5216000" />
-      <workItem from="1576135409733" duration="8643000" />
+      <workItem from="1576135409733" duration="9549000" />
+      <workItem from="1576636961626" duration="1402000" />
+      <workItem from="1576638599627" duration="2647000" />
+      <workItem from="1576641328968" duration="503000" />
+      <workItem from="1576641904324" duration="6256000" />
     </task>
     <task id="LOCAL-00001" summary="git commit test">
       <created>1576120330671</created>
@@ -343,27 +236,32 @@
       <option name="project" value="LOCAL" />
       <updated>1576122169894</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="streaming commit">
+      <created>1576147164865</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576147164865</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13859000" />
+    <option name="totallyTimeSpent" value="25573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17542787" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.121026896" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.3290993" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.08083141" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36143187" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -375,10 +273,11 @@
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.3290993" />
       <window_info anchor="bottom" id="Tail" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.47459584" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.3294621" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.15709047" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -392,7 +291,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git commit test" />
-    <option name="LAST_COMMIT_MESSAGE" value="git commit test" />
+    <MESSAGE value="streaming commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="streaming commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/spark/src/main/java/gitCommitTest">
@@ -403,13 +303,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spark/src/main/scala/sparkStreaming/DStreamDemo1.scala" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.2.0/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/StreamingContext.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="318" column="11" selection-start-line="318" selection-start-column="11" selection-end-line="318" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spark/src/main/scala/sparkStreaming/WordCount.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -417,25 +310,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.2.0/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/Duration.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2190">
-          <caret line="88" column="14" selection-start-line="88" selection-start-column="7" selection-end-line="88" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.2.0/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/Duration.scala" />
     <entry file="file://$PROJECT_DIR$/spark/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/spark/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka_2.11/1.6.2/spark-streaming-kafka_2.11-1.6.2-sources.jar!/org/apache/spark/streaming/kafka/KafkaUtils.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="66" column="45" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spark/src/main/scala/sparkRDD/RDD1.scala">
       <provider selected="true" editor-type-id="text-editor">
@@ -454,27 +334,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka_2.11/1.6.2/spark-streaming-kafka_2.11-1.6.2-sources.jar!/org/apache/spark/streaming/kafka/KafkaUtils.scala" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.3.0/spark-streaming-kafka-0-10_2.11-2.3.0-sources.jar!/org/apache/spark/streaming/kafka010/KafkaUtils.scala" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.2.0/spark-streaming_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/StreamingContext.scala" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.2.0/spark-core_2.11-2.2.0-sources.jar!/org/apache/spark/ui/jobs/AllJobsPage.scala" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spark/src/main/scala/sparkStreaming/DstreamKafka.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+        <state relative-caret-position="300">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
           <folding>
             <element signature="e#24#57#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.3.0/spark-streaming-kafka-0-10_2.11-2.3.0-sources.jar!/org/apache/spark/streaming/kafka010/KafkaUtils.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="83" column="45" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -531,11 +408,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>hadoopmr</last-edited>
+          <last-edited>spark</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.17494825" />
               </list>
             </option>
           </splitter-proportions>
@@ -555,11 +432,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <last-edited>Maven: org.apache.spark:spark-catalyst_2.12:2.4.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.6200828" />
               </list>
             </option>
           </splitter-proportions>

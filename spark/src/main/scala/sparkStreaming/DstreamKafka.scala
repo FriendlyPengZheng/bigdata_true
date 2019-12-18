@@ -15,7 +15,7 @@ object DstreamKafka {
 
         val input: ReceiverInputDStream[(String, String)] = KafkaUtils.createStream(
             ssc,
-            "10.1.1.34:2181,10.1.1.39:2181,10.1.1.12:2181",
+            "10.1.1.34:2181,10.1.1.39:2181,10.1.1.12:2181/kafka",
             "sparkStreamingConsumer",
             Map(("my_topic", 2))
         )
