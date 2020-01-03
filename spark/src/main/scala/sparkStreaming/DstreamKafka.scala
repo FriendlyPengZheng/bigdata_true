@@ -1,5 +1,6 @@
 package sparkStreaming
 
+import java.util.HashMap
 import kafka.common.TopicAndPartition
 import kafka.serializer.StringDecoder
 import org.apache.spark.rdd.RDD
@@ -26,7 +27,7 @@ object DstreamKafka {
         val input: InputDStream[(String, String)] = KafkaUtils.createDirectStream[String, String, StringDecoder, StringDecoder](
             ssc,
             Map("bootstrap.servers" -> "10.1.1.34:9092,10.1.1.39:9092,10.1.1.12:9092", "grouo.id" -> "my sparkStreaming"),
-            Set("my_topic"),
+            Set("my_topic")
 
         )
 
