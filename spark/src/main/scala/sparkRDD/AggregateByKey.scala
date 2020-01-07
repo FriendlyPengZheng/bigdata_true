@@ -28,7 +28,10 @@ object AggregateByKey {
           * foldByKey是aggregateByKey的特例
           * seqOp和combOp一样的时候两个等价
           */
-        input.map((_,1)).foldByKey(0)((x,y)=>(x+y))
+        val foldbk: RDD[(String, Int)] = input.map((_,1)).foldByKey(0)((x,y)=>(x+y))
+        foldbk.persist
+        foldbk.cache
+
         //aggbk.sortByKey().collect.foreach(println(_))
     }
 }

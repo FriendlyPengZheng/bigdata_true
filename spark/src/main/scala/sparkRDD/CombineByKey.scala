@@ -1,21 +1,27 @@
 package sparkRDD
 
-import org.apache.spark.{SparkConf, SparkContext}
+import org.apache.spark.{Accumulator, SparkConf, SparkContext}
 import org.apache.spark.rdd.RDD
+import org.apache.spark.util.LongAccumulator
+import scala.tools.cmd.Reference.Accumulators
 
 object CombineByKey {
     def main(args: Array[String]): Unit = {
+        val student = Student("zhangsan",2)
         val conf: SparkConf = new SparkConf().setAppName("aggre").setMaster("local[*]")
         val sc: SparkContext = new SparkContext(conf)
-        val input: RDD[String] = sc.makeRDD(List("aa", "bb", "cc", "bb", "bb", "bb", "cc", "dd", "a"))
+        var i: Accumulator[Int] = sc.accumulator(10)
+        val accumulator: LongAccumulator = sc.longAccumulator
+        println(i.value)
+        val input: RDD[String] = sc.makeRDD(List("aa", "bb", "cc", "bb", "bb", "bb", "cc", "dd", "a"),2)
         input.map (x=>
             x match {
-                case "aa" => (x, 10)
-                case "bb" => (x, 20)
-                case "cc" => (x, 30)
-                case "dd" => (x, 40)
-                case "a" => (x, 100)
-                case _ => (x, 0)
+                case "aa" => println("aa:"+i);(x+student.name, 10*student.age)
+                case "bb" => i.add(1);println("bb:"+i);(x, 20)
+                case "cc" => i.add(1);println("cc:"+i);(x, 30*i.toString().toInt)
+                case "dd" => i.add(1);println("dd:"+i);(x, 40)
+                case "a" => i.add(1);println("a:"+i);(x, 100)
+                case _ => i.add(1);println("default:"+i);(x, 0)
             }
         ).combineByKey(
             /**
