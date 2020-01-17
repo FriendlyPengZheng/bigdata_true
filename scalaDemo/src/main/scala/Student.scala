@@ -6,7 +6,7 @@ object Student {
 }
 
 
-abstract class Person {
+abstract class Person  {
 
   var name: String = _
   val sex: String = "nv"
