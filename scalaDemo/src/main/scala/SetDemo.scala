@@ -13,5 +13,9 @@ object SetDemo {
     println(set.apply(6))
     println(set)
     println(set1)
+
+    val i = 5
+    val double: Double = i.toDouble
+    println(double)
   }
 }
