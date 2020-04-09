@@ -1,7 +1,9 @@
 package juc;
 
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Vector;
+import java.util.concurrent.*;
 
 public class Lock {
     /**
@@ -27,10 +29,19 @@ public class Lock {
      * newFixedThreadPool(int numOfThreads)来创建固定线程数的线程池，newCachedThreadPool()可以根据需要创建新的线程，
      * 但如果已有线程是空闲的会重用已有线程。
      * */
-
     public static void main(String[] args) {
+        List<String> cowaList = new CopyOnWriteArrayList<>();
+        List<String> strings = new ArrayList<>();
+        List<String> strings1 = new Vector<>();
+        ConcurrentHashMap<Object, Object> conMap = new ConcurrentHashMap<>();
         int ticket = 20;
         ExecutorService executorService = Executors.newSingleThreadExecutor();
+        FutureTask<Integer> integerFutureTask = new FutureTask<>(new Runnable() {
+            public void run() {
+
+            }
+        }, 1);
+        new Thread(integerFutureTask,"a");
         for (int i = 0; i < 20; i++) {
             int j = i;
             Thread thread = new Thread(new Runnable() {
